@@ -1,0 +1,60 @@
+_repo: The-Story-of-Miss-Moppet_14848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Story of Miss Moppet is a tale about teasing, featuring a kitten\
+  \ and a mouse, that was written and illustrated by Beatrix Potter. It was published\
+  \ by Frederick Warne & Co for the 1906 Christmas season. Potter was born in London\
+  \ in 1866, and between 1902 and 1905 published a series of small format children's\
+  \ books with Warne. In 1906, she experimented with an atypical panorama design for\
+  \ Miss Moppet, which booksellers disliked; the story was reprinted in 1916 in small\
+  \ book format.\nMiss Moppet, the story's eponymous main character, is a kitten teased\
+  \ by a mouse. While pursuing him she bumps her head on a cupboard. She then wraps\
+  \ a duster about her head, and sits before the fire \"looking very ill\". The curious\
+  \ mouse creeps closer, is captured, \"and because the Mouse has teased Miss Moppet—Miss\
+  \ Moppet thinks she will tease the Mouse; which is not at all nice of Miss Moppet\"\
+  . She ties him up in the duster and tosses him about. However, the mouse makes his\
+  \ escape, and once safely out of reach, dances a jig atop the cupboard.\nAlthough,\
+  \ critically, The Story of Miss Moppet is considered one of Potter's lesser efforts,\
+  \ for young children it is valued as an introduction to books in general, and to\
+  \ the world of Peter Rabbit. The character of Miss Moppet was released as a porcelain\
+  \ figurine in 1954 and a plush toy in 1973. The book has been published in a Braille\
+  \ version, translated into seven languages, and was released in an electronic format\
+  \ in 2005. First editions in the original format are available through antiquarian\
+  \ booksellers.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14848'
+  wikidata: Q4272115
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcsh 'Kittens -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Story of Miss Moppet
+url: http://www.gutenberg.org/ebooks/14848
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%82%D8%B5%D8%A9_%D8%B3%D9%8A%D8%AF%D8%A9_%D9%85%D8%A7%D8%A8%D9%8A%D8%AA
+- https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%9A%E3%83%83%E3%83%88%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://pt.wikipedia.org/wiki/The_Story_of_Miss_Moppet
+- https://en.wikisource.org/wiki/The_Story_of_Miss_Moppet
+- https://en.wikipedia.org/wiki/The_Story_of_Miss_Moppet
+- https://commons.wikimedia.org/wiki/Category:The_Story_of_Miss_Moppet
+- https://id.wikipedia.org/wiki/The_Story_of_Miss_Moppet
